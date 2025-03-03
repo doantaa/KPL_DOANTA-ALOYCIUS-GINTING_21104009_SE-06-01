@@ -1,0 +1,17 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" 
+        x:Class="_03_GUI_Builder_dan_GitHub.MainWindow"
+        Title="_03_GUI_Builder_dan_GitHub">
+  
+    <StackPanel>
+        <TextBlock Margin="20" HorizontalAlignment="Center">Praktikum Konstruksi Perangkat Lunak Modul 3</TextBlock>
+        <Button Click="Button_OnClick" HorizontalAlignment="Center" VerticalAlignment="Center">Print to Console</Button>
+        <TextBlock x:Name="CounterText" HorizontalAlignment="Center">Counter: 0</TextBlock>
+    </StackPanel>
+</Window>
+
+
+
