@@ -1,0 +1,14 @@
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/bin/Debug/net9.0/04_Automata_dan_Table-Driven_Construction
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/bin/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.deps.json
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/bin/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.runtimeconfig.json
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/bin/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.dll
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/bin/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.pdb
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.AssemblyInfoInputs.cache
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.AssemblyInfo.cs
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.csproj.CoreCompileInputs.cache
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.dll
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/refint/04_Automata_dan_Table-Driven_Construction.dll
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.pdb
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/04_Automata_dan_Table-Driven_Construction.genruntimeconfig.cache
+/Users/doanta/Documents/Dev/Rider/04_Automata_dan_Table-Driven_Construction/obj/Debug/net9.0/ref/04_Automata_dan_Table-Driven_Construction.dll
