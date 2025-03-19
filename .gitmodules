@@ -1,3 +1,6 @@
 [submodule "02_Pengenalan_IDE_dan_Pemrograman_CSharp"]
 	path = 02_Pengenalan_IDE_dan_Pemrograman_CSharp
 	url = https://github.com/doantaa/02_Pengenalan_IDE_dan_Pemrograman_CSharp.git
+[submodule "05_Generics"]
+	path = 05_Generics
+	url = https://github.com/doantaa/05_Generics.git
