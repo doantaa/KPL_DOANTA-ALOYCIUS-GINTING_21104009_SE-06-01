@@ -4,3 +4,6 @@
 [submodule "05_Generics"]
 	path = 05_Generics
 	url = https://github.com/doantaa/05_Generics.git
+[submodule "06_Design_by_Contract_dan_Defensive_Programming"]
+	path = 06_Design_by_Contract_dan_Defensive_Programming
+	url = https://github.com/doantaa/06_Design_by_Contract_dan_Defensive_Programming.git
