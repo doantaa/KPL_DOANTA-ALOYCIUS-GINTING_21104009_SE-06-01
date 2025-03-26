@@ -10,3 +10,6 @@
 [submodule "07_Grammar-Based_Input_Processing_Parsing"]
 	path = 07_Grammar-Based_Input_Processing_Parsing
 	url = https://github.com/doantaa/07_Grammar-Based_Input_Processing_Parsing.git
+[submodule "08_Runtime_Configuration_dan_Internationalization"]
+	path = 08_Runtime_Configuration_dan_Internationalization
+	url = https://github.com/doantaa/08_Runtime_Configuration_dan_Internationalization
