@@ -7,6 +7,3 @@
 [submodule "06_Design_by_Contract_dan_Defensive_Programming"]
 	path = 06_Design_by_Contract_dan_Defensive_Programming
 	url = https://github.com/doantaa/06_Design_by_Contract_dan_Defensive_Programming.git
-[submodule "07_Grammar-Based_Input_Processing_Parsing"]
-	path = 07_Grammar-Based_Input_Processing_Parsing
-	url = https://github.com/KPL-TEAM-4/tpmodul7_kelompok_4.git
