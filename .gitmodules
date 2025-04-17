@@ -13,3 +13,6 @@
 [submodule "08_Runtime_Configuration_dan_Internationalization"]
 	path = 08_Runtime_Configuration_dan_Internationalization
 	url = https://github.com/doantaa/08_Runtime_Configuration_dan_Internationalization
+[submodule "09_API_Design_dan_Construction_Using_Swagger"]
+	path = 09_API_Design_dan_Construction_Using_Swagger
+	url = https://github.com/doantaa/09_API_Design_dan_Construction_Using_Swagger.git
