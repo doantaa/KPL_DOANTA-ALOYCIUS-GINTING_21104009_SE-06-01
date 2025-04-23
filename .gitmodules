@@ -22,7 +22,3 @@
 	path = 09_API_Design_dan_Construction_Using_Swagger
 	url = https://github.com/doantaa/09_API_Design_dan_Construction_Using_Swagger.git
 	branch = main
-[submodule "10_Library_Construction"]
-	path = 10_Library_Construction
-	url = https://github.com/doantaa/10_Library_Construction
-	branch = main
