@@ -1,21 +1,28 @@
 [submodule "02_Pengenalan_IDE_dan_Pemrograman_CSharp"]
 	path = 02_Pengenalan_IDE_dan_Pemrograman_CSharp
 	url = https://github.com/doantaa/02_Pengenalan_IDE_dan_Pemrograman_CSharp.git
+	branch = main
 [submodule "05_Generics"]
 	path = 05_Generics
 	url = https://github.com/doantaa/05_Generics.git
+	branch = main
 [submodule "06_Design_by_Contract_dan_Defensive_Programming"]
 	path = 06_Design_by_Contract_dan_Defensive_Programming
 	url = https://github.com/doantaa/06_Design_by_Contract_dan_Defensive_Programming.git
+	branch = main
 [submodule "07_Grammar-Based_Input_Processing_Parsing"]
 	path = 07_Grammar-Based_Input_Processing_Parsing
 	url = https://github.com/doantaa/07_Grammar-Based_Input_Processing_Parsing.git
+	branch = main
 [submodule "08_Runtime_Configuration_dan_Internationalization"]
 	path = 08_Runtime_Configuration_dan_Internationalization
 	url = https://github.com/doantaa/08_Runtime_Configuration_dan_Internationalization
+	branch = main
 [submodule "09_API_Design_dan_Construction_Using_Swagger"]
 	path = 09_API_Design_dan_Construction_Using_Swagger
 	url = https://github.com/doantaa/09_API_Design_dan_Construction_Using_Swagger.git
+	branch = main
 [submodule "10_Library_Construction"]
 	path = 10_Library_Construction
 	url = https://github.com/doantaa/10_Library_Construction
+	branch = main
